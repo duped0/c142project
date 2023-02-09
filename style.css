@@ -1,0 +1,35 @@
+.heading{
+    margin-top: -1px;
+    width:100%;
+    font-size:22px;
+}
+
+#instruction{
+    float:right;
+}
+
+#start,#restart{
+    border-radius:10px;
+    font-family:monospace;
+    margin-left:25px;
+}
+#status{
+    margin-right:35px;
+}
+.footer{
+    margin-top:100px;
+    background-color: grey;
+    width: 100%;
+    margin-bottom: 0px;
+    color: white;
+    line-height: 2;
+    bottom: 0px;
+    position: sticky;
+}
+
+canvas{
+    border:2px solid white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px white;
+}
